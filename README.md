@@ -1,9 +1,7 @@
-# NT548.Q11 - Lab 2
+# NT548.Q11 - Lab 2 - Ex1
 ## Group 09
 |    MSSV   |      Họ và tên     | Công việc      |
 |-----------|--------------------|-------------   |
-|  23520797 | Lê Trung Kiên      | CloudFormation |
-|  23521588 | Trần Thị Thùy Tiên | CloudFormation |
 |  23521471 | Trần Thuận Thến    | Terraform      |
 |  23521564 | Trần Lê Uyên Thy   | Terraform      |
 
@@ -22,7 +20,7 @@
 2. **Cách thực hiện**
 - Clone repo
 ```bash
-git clone https://github.com/moeruuu/NT548-Lab2
+git clone https://github.com/moeruuu/NT548-Lab2-Ex1
 cd NT548-LAB2
 ```
 
